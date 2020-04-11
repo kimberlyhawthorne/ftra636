@@ -1,0 +1,30 @@
+{
+	"sourceLanguage": "en",
+	"targetLanguage": "fr-CA",
+	"dictionary": [
+		{
+			"labels": ["button"],
+			"context": "This is a button for adding products to cart. Keep text as concise as possible.",
+			"translation": {
+				"Add to Cart": {
+					"value": ""
+				}
+			}
+		},
+		{
+			"labels": ["accessibility", "visually hidden"],
+			"translation": {
+				"Click to add <var productName>product</var> to cart": {
+					"value": ""
+				}
+			}
+		},
+		{
+			"translation": {
+				"You have <var pluralize=\"8\">eight</var> products in your cart": {
+					"value": ""
+				}
+			}
+		}
+	]
+}
